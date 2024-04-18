@@ -1,4 +1,4 @@
-# Parcial2_SistemasOperativos
+# Parcial2_SistemasOperativos - Andrés Chávez - Sebastian Salazar
 Segundo Parcial Sistemas Operativos - Planificación por Prioridades Dinámicas
 
 Comparación de Tiempo de Ejecución entre Programas en C y Python
